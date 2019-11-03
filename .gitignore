@@ -1,0 +1,12 @@
+*
+!*/
+!.gitignore
+
+# Verilog sources
+!ws2812b-verilog.srcs/**/*.v
+
+# Design constraints
+!ws2812b-verilog.srcs/**/*.xdc
+
+# Project files
+!*.xpr
